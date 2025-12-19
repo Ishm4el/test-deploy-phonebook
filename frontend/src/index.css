@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+* {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: skyblue;
+}
+
+button {
+  color: black;
+}
+
+input {
+  color: black;
+}
+
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.success {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
